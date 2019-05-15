@@ -28,7 +28,7 @@ public class StudentTester {
         {
             System.out.println(studentList[i].getName());
             System.out.println("hello");
-            System.err.println("Welcome....");
+            System.out.println("Welcome....");
         }
         
     }
